@@ -1,0 +1,48 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "name": "Prajwal",
+      "username": "Prajwal",
+      "email": "prajwal@gmai.com",
+      "phone": "948525455",
+      "salary": "10000"
+    },
+    {
+      "id": 3,
+      "name": "Ram",
+      "username": "Ram",
+      "email": "ram@gmai.com",
+      "phone": "948525455",
+      "salary": "10000"
+    },
+    {
+      "id": 4,
+      "name": "Krishna",
+      "username": "Krishna",
+      "email": "krishna@gmai.com",
+      "phone": "948525455",
+      "salary": "10000"
+    },
+    {
+      "id": 5,
+      "name": "Sai Prakash",
+      "username": "Sai",
+      "email": "sai@gmai.com",
+      "phone": "948525455",
+      "salary": "10000"
+    },
+    {
+      "name": "Joshi",
+      "email": "joshi@gmail.com",
+      "phone": "948521548642",
+      "id": 6
+    },
+    {
+      "name": "Sourabh",
+      "email": "sou@gmail.com",
+      "phone": "8574858547",
+      "id": 7
+    }
+  ]
+}
